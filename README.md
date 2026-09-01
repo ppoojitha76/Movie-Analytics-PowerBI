@@ -69,7 +69,8 @@ The dashboard allows users to filter the analysis by:
 
 ## 🖼️ Dashboard Preview
 
-![Movie Analytics Dashboard](Screenshots/Movie_Analytics_Dashboard.png)
+![Movie Analytics Dashboard](Screenshots/Movie_Analytics_Dashboard.png.png
+)
 
 ## 📂 Dataset
 
